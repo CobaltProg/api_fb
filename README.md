@@ -37,7 +37,7 @@ Allows the creation of a single user.
     'street_number': 20, // optionnal
     'street_type': 'rue', // optionnal
     'street_name': 'montsoult', // optionnal
-    'phone': '065114582', // optionnal
+    'phone': '0651145820', // optionnal
     'image_profil': 'https://www.mediacritik.com/wp-content/uploads/2019/04/rs_1024x759-170407142939-1024.Peter-Dinklage-Game-of-Thrones.kg_.040717.jpg' // optionnal
 }
 ```
@@ -53,14 +53,14 @@ Allows the creation of a single user.
   'token': 'Y9Y1lusRUNVfKnv75yFUXw4wpo1OwK0HYd0RSVEkaaNCvz6oLNTT49m2Mix9sFHLwxeYWPUsgXxdhQYS80MgEE9Sljuq9VctHvdm'
   'age': 23,
   'gender': 'm',
-  'height': 1.75,
-  'weight': 80,
+  'height': 1.86,
+  'weight': 70,
   'city': 'Paris',
   'cityCode': '75000',
-  'street_number': 13,
+  'street_number': 20,
   'street_type': 'rue',
-  'street_name': 'de cambrai',
-  'phone': '0651448017',
+  'street_name': 'montsoult',
+  'phone': '0651145820',
   'image_profil': 'https://www.mediacritik.com/wp-content/uploads/2019/04/rs_1024x759-170407142939-1024.Peter-Dinklage-Game-of-Thrones.kg_.040717.jpg'
 }
 ```
